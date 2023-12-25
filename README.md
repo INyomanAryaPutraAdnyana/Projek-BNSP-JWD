@@ -1,3 +1,9 @@
 # Projek-BNSP-JWD
 
-Projek akhir dari BNSP adalah membuat Web Pemesanan Tiket Wisata 
+Repository Projek akhir dari BNSP adalah membuat Web Pemesanan Tiket Wisata.
+ Fitur di dalam aplikasi :
+- Create
+- Read
+- Update
+- Delete
+
